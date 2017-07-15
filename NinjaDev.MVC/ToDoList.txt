@@ -1,0 +1,30 @@
+List Of Tasks
+
+1. Create solution with all projects - InProgress
+2. Create BOL with Enity Framework
+3. Add Connection string in UI
+4. Create Areas in MVC
+	a. Common
+	b. User
+	c. Admin
+	d. Security
+5. Create All Controllers in Respective Areas
+6. Add Default index views
+7. Add Bootstrap
+8. Create BrowseUrl View
+9. Create Common Layout
+10. Create DAL
+	Add UrlDb
+11. Create BLL
+	Add UrlBs
+12. Update BrowseUrl Controller
+13. Update BrowseUrl View
+14. Create SubmitUrl Controller
+15. Form Validations in BOL for BrowseURL
+16. Add Scripts for Client Side Validations
+17. Add tbl_UrlMetedata File in BOL
+18. Authentication Filter in Global File
+19. Authentication Project
+20. Adding Required Dlls
+21. Creating Custom Membership Providers
+22. Creating Custom Role Providers
